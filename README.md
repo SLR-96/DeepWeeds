@@ -10,9 +10,11 @@ Variation of loss during training:
 
 ![Loss](https://user-images.githubusercontent.com/65850584/220749356-3a9beaf8-87b9-478d-a75e-35234d145e53.png)
 
+
 Variation of accuracy during training:
 
 ![Accuracy](https://user-images.githubusercontent.com/65850584/220749439-e5b107e9-c267-4c88-9cf3-d5739bce6489.png)
+
 
 Confusion matrix of test data on the trained network:
 

@@ -4,7 +4,7 @@ Classification of different weed species by using convolutional neural networks.
 The dataset used in this project is the DeepWeeds dataset:
 https://github.com/AlexOlsen/DeepWeeds
 
-A deep network architecture with 7 convolutional layers and 2 fully connected layers with dropout layers in between has been used. After 1 hour and 40 minutes, the trained netowrk showed promising results with a training accuracy of 81%, a validation accuracy of 76%, and a test accuracy of 73%. The following are visual representations of the training process and its results.
+Different architectures, augmentation techniques, and different methods to avoid overfitting were used. Finally, a deep network architecture with 7 convolutional layers and 2 fully connected layers with dropout layers in between were used. After 1 hour and 40 minutes, the trained netowrk showed promising results with a training accuracy of 81%, a validation accuracy of 76%, and a test accuracy of 73%. The following are visual representations of the training process and its results.
 
 Variation of loss during training:
 
